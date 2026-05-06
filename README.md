@@ -18,54 +18,36 @@ Este proyecto aborda la Opción A: Dinámica de Poblaciones, enfocándose en el 
 
 ESTRUCTURA DEL REPOSITORIO
 
-Proyecto1-ICMAT
+Proyecto1-ICMAT/
 
-|--informe/
-|--data/
-
-  |+--Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
-  
-|--figs/
-
-  |+--Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
-  
-  |+--Comparación Modelo logístico. Discreto, continuo, Euler.png
-
-  |+--Crecimiento logístico (Aproximación de Euler).png
-
-  |+--Curva Malthus para distintos r.png
-
-  |+--Diagrama de telaraña(cobweb plot).png
-
-  |+--Diagrama de telaraña. Oscilaciones alrededor de L.png
-
-  |+--Error de método Euler vs solución exacta continua modelo logístico.png
-
-  |+--Modelo Malthus.png
-
-  |+--Validación del modelo, datos reales vs simulación.png
-
-|--notebooks/
-
-  |+--Fase_2_entregable_1.ipynb
-
-  |+--Fase_2_entregable_2.ipynb
-
-  |+--Fase_2_entregable_3.ipynb
-
-  |+--Fase_2_entregable_4.ipynb
-
-  |+--Subible 1 Fase 3.ipynb
-
-  |+--Untitled0.ipynb}
-
-  |+--instrucciones.txt
-
-|--.gitignore
-
-|--README.md
-
-|--requirements.txt
+├── informe/
+│
+├── data/
+│   └── Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
+│
+├── figs/
+│   ├── Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
+│   ├── Comparación Modelo logístico. Discreto, continuo, Euler.png
+│   ├── Crecimiento logístico (Aproximación de Euler).png
+│   ├── Curva Malthus para distintos r.png
+│   ├── Diagrama de telaraña(cobweb plot).png
+│   ├── Diagrama de telaraña. Oscilaciones alrededor de L.png
+│   ├── Error de método Euler vs solución exacta continua modelo logístico.png
+│   ├── Modelo Malthus.png
+│   └── Validación del modelo, datos reales vs simulación.png
+│
+├── notebooks/
+│   ├── Fase_2_entregable_1.ipynb
+│   ├── Fase_2_entregable_2.ipynb
+│   ├── Fase_2_entregable_3.ipynb
+│   ├── Fase_2_entregable_4.ipynb
+│   ├── Subible 1 Fase 3.ipynb
+│   ├── Untitled0.ipynb
+│   └── instrucciones.txt
+│
+├── .gitignore
+├── README.md
+└── requirements.txt
 
 INSTRUCCIONES DE INSTALACIÓN Y EJECUCIÓN
 
