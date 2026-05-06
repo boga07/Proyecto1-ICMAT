@@ -24,13 +24,13 @@ Proyecto1-ICMAT
 
 --data/
 
-  +--Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
++--Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
   
 --figs/
 
-  +--Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
++--Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
   
-  +--Comparación Modelo logístico. Discreto, continuo, Euler.png
++--Comparación Modelo logístico. Discreto, continuo, Euler.png
 
 INSTRUCCIONES DE INSTALACIÓN Y EJECUCIÓN
 
