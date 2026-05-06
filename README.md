@@ -20,53 +20,53 @@ ESTRUCTURA DEL REPOSITORIO
 
 Proyecto1-ICMAT
 
---informe/
+|--informe/
 
---data/
+|--data/
 
-  +--Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
+  |+--Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
   
---figs/
+|--figs/
 
-  +--Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
+  |+--Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
   
-  +--Comparación Modelo logístico. Discreto, continuo, Euler.png
+  |+--Comparación Modelo logístico. Discreto, continuo, Euler.png
 
-  +--Crecimiento logístico (Aproximación de Euler).png
+  |+--Crecimiento logístico (Aproximación de Euler).png
 
-  +--Curva Malthus para distintos r.png
+  |+--Curva Malthus para distintos r.png
 
-  +--Diagrama de telaraña(cobweb plot).png
+  |+--Diagrama de telaraña(cobweb plot).png
 
-  +--Diagrama de telaraña. Oscilaciones alrededor de L.png
+  |+--Diagrama de telaraña. Oscilaciones alrededor de L.png
 
-  +--Error de método Euler vs solución exacta continua modelo logístico.png
+  |+--Error de método Euler vs solución exacta continua modelo logístico.png
 
-  +--Modelo Malthus.png
+  |+--Modelo Malthus.png
 
-  +--Validación del modelo, datos reales vs simulación.png
+  |+--Validación del modelo, datos reales vs simulación.png
 
---notebooks/
+|--notebooks/
 
-  +--Fase_2_entregable_1.ipynb
+  |+--Fase_2_entregable_1.ipynb
 
-  +--Fase_2_entregable_2.ipynb
+  |+--Fase_2_entregable_2.ipynb
 
-  +--Fase_2_entregable_3.ipynb
+  |+--Fase_2_entregable_3.ipynb
 
-  +--Fase_2_entregable_4.ipynb
+  |+--Fase_2_entregable_4.ipynb
 
-  +--Subible 1 Fase 3.ipynb
+  |+--Subible 1 Fase 3.ipynb
 
-  +--Untitled0.ipynb}
+  |+--Untitled0.ipynb}
 
-  +--instrucciones.txt
+  |+--instrucciones.txt
 
---.gitignore
+|--.gitignore
 
---README.md
+|--README.md
 
---requirements.txt
+|--requirements.txt
 
 INSTRUCCIONES DE INSTALACIÓN Y EJECUCIÓN
 
