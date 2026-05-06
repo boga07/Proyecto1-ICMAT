@@ -32,6 +32,42 @@ Proyecto1-ICMAT
   
   +--Comparación Modelo logístico. Discreto, continuo, Euler.png
 
+  +--Crecimiento logístico (Aproximación de Euler).png
+
+  +--Curva Malthus para distintos r.png
+
+  +--Diagrama de telaraña(cobweb plot).png
+
+  +--Diagrama de telaraña. Oscilaciones alrededor de L.png
+
+  +--Error de método Euler vs solución exacta continua modelo logístico.png
+
+  +--Modelo Malthus.png
+
+  +--Validación del modelo, datos reales vs simulación.png
+
+--notebooks/
+
+  +--Fase_2_entregable_1.ipynb
+
+  +--Fase_2_entregable_2.ipynb
+
+  +--Fase_2_entregable_3.ipynb
+
+  +--Fase_2_entregable_4.ipynb
+
+  +--Subible 1 Fase 3.ipynb
+
+  +--Untitled0.ipynb}
+
+  +--instrucciones.txt
+
+--.gitignore
+
+--README.md
+
+--requirements.txt
+
 INSTRUCCIONES DE INSTALACIÓN Y EJECUCIÓN
 
 DECLARACIÓN USO DE IA
