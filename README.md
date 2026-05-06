@@ -21,7 +21,6 @@ ESTRUCTURA DEL REPOSITORIO
 Proyecto1-ICMAT
 
 |--informe/
-
 |--data/
 
   |+--Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
