@@ -42,6 +42,8 @@ Proyecto1-ICMAT/
 
 │   ├── Crecimiento logístico (Aproximación de Euler).png
 
+│   ├── Crecimiento logístico Comparación vector.png
+
 │   ├── Curva Malthus para distintos r.png
 
 │   ├── Diagrama de telaraña(cobweb plot).png
