@@ -4,13 +4,13 @@ IWG-400 Proyecto Inicial - Primer Semestre 2026
 
 INTEGRANTES DEL EQUIPO
 
-Francisco Andrés Barría González - 
+Francisco Andrés Barría González 
 
-Bastián Alexander Olguín Pizarro -
+Bastián Alexander Olguín Pizarro 
 
-Cristobal Alonso Díaz Rojas -
+Cristobal Alonso Díaz Rojas 
 
-Gabriel Alonso Pereira Silva -
+Gabriel Alonso Pereira Silva 
 
 DESCRIPCIÓN PROYECTO 
 
