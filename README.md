@@ -14,7 +14,7 @@ Gabriel Alonso Pereira Silva -
 
 DESCRIPCIÓN PROYECTO 
 
-Este proyecto aborda la Opción A: Dinámica de Poblaciones, enfocándose en el estudio de modelos de crecimiento poblacional (Malthus y Logístico) en versiones discretas y continuas. Se analiza la sensibilidad de los parámetros, el error del método numérico de Euler y se realiza una validación con datos reales. Como extensión (A3), se seleccionó el ajuste del modelo logístico a datos reales de ...., comparando su comportamiento con el modelo de Malthus. 
+Este proyecto aborda la Opción A: Dinámica de Poblaciones, enfocándose en el estudio de modelos de crecimiento poblacional (Malthus y Logístico) en versiones discretas y continuas. Se analiza la sensibilidad de los parámetros, el error del método numérico de Euler y se realiza una validación con datos reales. Como extensión (A3), se seleccionó el ajuste del modelo logístico a datos reales de crecimiento poblacional entre una raza y una subraza de mosquitos, comparando su comportamiento con el modelo de Malthus. 
 
 ESTRUCTURA DEL REPOSITORIO
 
