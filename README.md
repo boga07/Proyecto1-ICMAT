@@ -36,6 +36,10 @@ Proyecto1-ICMAT/
 
 │   ├── Comparación Modelo logístico. Discreto, continuo, Euler.png
 
+│   ├── Comparación nativa vs invasora.png
+
+│   ├── Crecimiento exponencial de mosquitos Malthus.png
+
 │   ├── Crecimiento logístico (Aproximación de Euler).png
 
 │   ├── Curva Malthus para distintos r.png
