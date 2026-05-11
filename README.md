@@ -19,72 +19,34 @@ Este proyecto aborda la Opción A: Dinámica de Poblaciones, enfocándose en el 
 ESTRUCTURA DEL REPOSITORIO
 
 Proyecto1-ICMAT/
-
 ├── informe/
-
+│   └── README.md                   # Enlace al proyecto en Overleaf
 │
-
 ├── data/
-
-│   └── Population_differences_in_reproductive_resource_allocation_and_heterosis_in_the_invasive_vector_Aedes_albopictus.pdf
-
+│   ├── Aedes_albopictus_study.pdf  # Paper de referencia para la extensión A3
+│   └── README.md                   # Fuente de datos externos (Harvard AM-115)
 │
-
-├── figs/
-
+├── figs/                           # Gráficos exportados para el informe
 │   ├── Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
-
 │   ├── Comparación Modelo logístico. Discreto, continuo, Euler.png
-
 │   ├── Comparación nativa vs invasora.png
-
 │   ├── Crecimiento exponencial de mosquitos Malthus.png
-
 │   ├── Crecimiento logístico (Aproximación de Euler).png
-
 │   ├── Crecimiento logístico Comparación vector.png
-
 │   ├── Curva Malthus para distintos r.png
-
 │   ├── Diagrama de telaraña(cobweb plot).png
-
-│   ├── Diagrama de telaraña. Oscilaciones alrededor de L.png
-
 │   ├── Error de método Euler vs solución exacta continua modelo logístico.png
-
 │   ├── Modelo Malthus.png
-
 │   └── Validación del modelo, datos reales vs simulación.png
-
 │
-
-├── notebooks/
-
-│   ├── Fase 3. Subible 2.ipynb
-
-│   ├── Fase 3. subible 3.ipynb
-
-│   ├── Fase_2_entregable_1.ipynb
-
-│   ├── Fase_2_entregable_2.ipynb
-
-│   ├── Fase_2_entregable_3.ipynb
-
-│   ├── Fase_2_entregable_4.ipynb
-
-│   ├── Subible 1 Fase 3.ipynb
-
-│   ├── Untitled0.ipynb
-
-│   └── instrucciones.txt
-
+├── notebooks/                      # Código ejecutable (Jupyter Notebooks)
+│   ├── 01_fase_base.ipynb          # Implementación modelos base y Euler
+│   ├── 02_fase_analisis.ipynb      # Sensibilidad y validación (Levadura)
+│   └── 03_fase_extension.ipynb     # Comparación biológica mosquitos (A3)
 │
-
-├── .gitignore
-
-├── README.md
-
-└── requirements.txt
+├── .gitignore                      # Archivos omitidos
+├── README.md                       # Documentación general (este archivo)
+└── requirements.txt                # Dependencias (Numpy, Pandas, Matplotlib, Plotly)
 
 
 INSTRUCCIONES DE INSTALACIÓN Y EJECUCIÓN
