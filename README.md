@@ -4,13 +4,13 @@ IWG-400 Proyecto Inicial - Primer Semestre 2026
 
 INTEGRANTES DEL EQUIPO
 
-Francisco Andrés Barría González 
+Francisco Andrés Barría González - fbarria@usm.cl
 
-Bastián Alexander Olguín Pizarro 
+Bastián Alexander Olguín Pizarro - bolguinp@usm.cl
 
-Cristobal Alonso Díaz Rojas 
+Cristobal Alonso Díaz Rojas - cdiazr@usm.cl
 
-Gabriel Alonso Pereira Silva 
+Gabriel Alonso Pereira Silva - gpereira@usm.cl
 
 DESCRIPCIÓN PROYECTO 
 
