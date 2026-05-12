@@ -58,6 +58,26 @@ Proyecto1-ICMAT/
 
 ├── notebooks/
 
+│ ├── old archives/
+
+│ ├── Fase 3. Subible 2.ipynb
+
+│ ├── Fase 3. Subible 3.ipynb
+
+│ ├── Fase 3. Subible 4.ipynb
+
+│ ├── Fase_2_entregable_1.ipynb
+
+│ ├── Fase_2_entregable_2.ipynb
+
+│ ├── Fase_2_entregable_3.ipynb
+
+│ ├── Fase_2_entregable_4.ipynb
+
+│ ├── Fase_2_entregable_Final.ipynb
+
+│ └── Subible 1 Fase 3.ipynb
+
 │ ├── 01_fase_base.ipynb
 
 │ ├── 02_fase_analisis.ipynb
