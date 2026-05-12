@@ -17,36 +17,32 @@ DESCRIPCIÓN PROYECTO
 Este proyecto aborda la Opción A: Dinámica de Poblaciones, enfocándose en el estudio de modelos de crecimiento poblacional (Malthus y Logístico) en versiones discretas y continuas. Se analiza la sensibilidad de los parámetros, el error del método numérico de Euler y se realiza una validación con datos reales. Como extensión (A3), se seleccionó el ajuste del modelo logístico a datos reales de crecimiento poblacional entre una raza y una subraza de mosquitos, comparando su comportamiento con el modelo de Malthus. 
 
 ESTRUCTURA DEL REPOSITORIO
-
 Proyecto1-ICMAT/
-├── informe/
-│   └── README.md                   # Enlace al proyecto en Overleaf
-│
+├── .gitignore
+├── README.md
+├── requirements.txt
 ├── data/
-│   ├── Aedes_albopictus_study.pdf  # Paper de referencia para la extensión A3
-│   └── README.md                   # Fuente de datos externos (Harvard AM-115)
-│
-├── figs/                           # Gráficos exportados para el informe
-│   ├── Análisis de Sensibilidad.Tiempo de convergencia modelo logístico discreto.png
-│   ├── Comparación Modelo logístico. Discreto, continuo, Euler.png
-│   ├── Comparación nativa vs invasora.png
-│   ├── Crecimiento exponencial de mosquitos Malthus.png
-│   ├── Crecimiento logístico (Aproximación de Euler).png
-│   ├── Crecimiento logístico Comparación vector.png
-│   ├── Curva Malthus para distintos r.png
-│   ├── Diagrama de telaraña(cobweb plot).png
-│   ├── Error de método Euler vs solución exacta continua modelo logístico.png
-│   ├── Modelo Malthus.png
-│   └── Validación del modelo, datos reales vs simulación.png
-│
-├── notebooks/                      # Código ejecutable (Jupyter Notebooks)
-│   ├── 01_fase_base.ipynb          # Implementación modelos base y Euler
-│   ├── 02_fase_analisis.ipynb      # Sensibilidad y validación (Levadura)
-│   └── 03_fase_extension.ipynb     # Comparación biológica mosquitos (A3)
-│
-├── .gitignore                      # Archivos omitidos
-├── README.md                       # Documentación general (este archivo)
-└── requirements.txt                # Dependencias (Numpy, Pandas, Matplotlib, Plotly)
+│   ├── Aedes_albopictus_study.pdf
+│   └── README.md (Link: Harvard AM-115)
+├── informe/
+│   └── README.md (Link: Overleaf)
+├── notebooks/
+│   ├── 01_fase_base.ipynb
+│   ├── 02_fase_analisis.ipynb
+│   └── 03_fase_extension.ipynb
+└── figs/
+    ├── Análisis_de_Sensibilidad.png
+    ├── Comparación_Logístico_Base.png
+    ├── Comparación_Nativa_vs_Invasora.png
+    ├── Crecimiento_Malthus_Mosquitos.png
+    ├── Crecimiento_Logístico_Euler.png
+    ├── Crecimiento_Logístico_Vector.png
+    ├── Curva_Malthus_Parámetros.png
+    ├── Diagrama_de_Telaraña_1.png
+    ├── Diagrama_de_Telaraña_2.png
+    ├── Error_Método_Euler.png
+    ├── Modelo_Malthus_General.png
+    └── Validación_Datos_Reales.png
 
 
 INSTRUCCIONES DE INSTALACIÓN Y EJECUCIÓN
